@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fling Fish</string>
+    <string name="flying">The Flying Fish</string>
+    <string name="game_over">Game Over</string>
+    <string name="play_agian">Play Again</string>
+    <string name="score">Score</string>
+</resources>
